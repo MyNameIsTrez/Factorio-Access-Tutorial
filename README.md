@@ -1,6 +1,6 @@
 # Factorio Access Tutorial
 
-This mod attempts to lower the difficulty curve of blind players using the [Factorio Access](https://github.com/Crimso777/Factorio-Access) accessibility mod.
+This mod attempts to lower the difficulty curve for blind players using the [Factorio Access](https://github.com/Crimso777/Factorio-Access) accessibility mod.
 
 # Credit
 

@@ -1,0 +1,12 @@
+{
+	"name": "Factorio-Access-Tutorial",
+	"version": "1.0.0",
+	"factorio_version": "1.1",
+	"title": "Factorio Access Tutorial",
+	"author": "MyNameIsTrez, Sir Fendi",
+	"description": "This mod attempts to lower the difficulty curve for blind players using the Factorio Access accessibility mod.",
+	"homepage": "https://github.com/MyNameIsTrez/Factorio-Access-Tutorial",
+	"dependencies": [
+		"base >= 1.1.8"
+	]
+}
